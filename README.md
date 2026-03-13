@@ -16,7 +16,21 @@ Jarvis Voice System - हर एक्शन पर वॉइस फीडबै
 Self-Destruct (🔥) - एक क्लिक में सभी लॉग्स और पेलोड्स को क्लीन करने की सुविधा।
 
 
-🚀 Installation & Setup
+
+🛠️ इंस्टॉलेशन (Installation)
+
+1. सिस्टम की ज़रूरतें (Prerequisites)
+इस टूल को चलाने के लिए आपके सिस्टम में नीचे दिए गए टूल्स होने ज़रूरी हैं:
+Python 3.x
+
+Nmap (नेटवर्क स्कैनिंग के लिए)
+
+Metasploit Framework (पेलोड बनाने के लिए)
+
+Ngrok (Port Forwarding के लिए - ऑप्शनल)
+
+
+🚀 Setup
 Kali Linux या अन्य नए Linux वर्ज़न्स पर 'Externally Managed Environment' एरर से बचने के लिए Virtual Environment का उपयोग करना सबसे बेहतर तरीका है।
 
 यह आपके सिस्टम की पाइथन फाइलों को सुरक्षित रखता है और प्रोजेक्ट की लाइब्रेरीज़ को अलग से मैनेज करता है।
@@ -28,8 +42,7 @@ python3 -m venv env
 bash
 source env/bin/activate
 
-1. Repository को क्लोन करें
-सबसे पहले टर्मिनल खोलें और प्रोजेक्ट डाउनलोड करें or रिपॉजिटरी को क्लोन करें:
+1. सबसे पहले टर्मिनल खोलें और प्रोजेक्ट डाउनलोड करें or रिपॉजिटरी को क्लोन करें:
 
 **git clone https://github.com/246435F/Shield-Hub**
 
