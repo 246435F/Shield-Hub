@@ -10,7 +10,7 @@ PORT     STATE SERVICE
 80/tcp   open  http
 443/tcp  open  https
 1900/tcp open  upnp
-MAC Address: 90:9A:4A:05:E4:C1 (TP-Link Technologies)
+
 
 Nmap done: 1 IP address (1 host up) scanned in 0.38 seconds
 [2026-03-13 06:34:40] [🤖 AI] Cross-referencing scan logs with malware signatures...
