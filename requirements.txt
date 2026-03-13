@@ -1,0 +1,2 @@
+pip install customtkinter psutil requests pyttsx3 reportlab yara-python pillow
+sudo apt install nmap xterm
