@@ -38,6 +38,7 @@ bash
 
 **sudo python3 main.py**
 
+
 Target IP डालें और Discovery Scan शुरू करें।
 
 AI Analysis बटन दबाकर खतरों की जांच करें।
